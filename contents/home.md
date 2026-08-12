@@ -1,40 +1,36 @@
-[![liuying](https://img.shields.io/badge/llliuyyingying-github-blue?logo=github)](https://github.com/llliuyyingying)
-[![GitHub](https://img.shields.io/badge/GitHub-liuying-blue?logo=github)](https://github.com/llliuyyingying)
-[![Email](https://img.shields.io/badge/Email-ly_2027@163.com-red?logo=gmail)](mailto:ly_2027@163.com)
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+<div class="profile-grid">
+  <div class="info-card">
+    <h3>核心概览</h3>
+    <div class="metric-grid">
+      <div class="metric"><strong>4/164</strong><span>专业排名 · 前3%</span></div>
+      <div class="metric"><strong>89.11</strong><span>加权均分</span></div>
+      <div class="metric"><strong>SCI</strong><span>中科院二区一作</span></div>
+      <div class="metric"><strong>3+</strong><span>国家级竞赛奖项</span></div>
+    </div>
 
-#### Email  
-<code>ly_2027@163.com/code>  
-<code>3078456530@qq.com</code>
+    <div class="intro-text">
+      <p>我是武汉轻工大学数学与计算机学院计算机科学与技术专业2023级本科生，中共预备党员。本科期间长期关注 <strong>计算机视觉、多模态数据融合、深度学习与大模型应用</strong>，希望在研究生阶段继续围绕人工智能、大模型应用、可信视觉检测与自然语言处理等方向深入研究。</p>
+      <p>本科期间作为第一作者发表 SCI 论文 1 篇（中科院二区），主持/参与研发果品智能无损检测平台，完成从高光谱数据采集、特征波段筛选、模型构建到前后端系统集成的完整链路；相关成果包括国家级竞赛奖项、软件著作权与多项省级学科竞赛奖项。</p>
+    </div>
+  </div>
 
-  
-我是武汉轻工大学数学与计算机学院计算机科学与技术专业2023级本科生，专业排名 **4/164（前3%）**，加权均分 **89.11**，中共预备党员。
+  <div class="info-card">
+    <h3>联系方式</h3>
+    <div class="tag-list">
+      <span>ly_2027@163.com</span>
+      <span>3078456530@qq.com</span>
+      <span>GitHub: lllliuyyingying</span>
+    </div>
 
-本科期间长期深耕**计算机视觉、多模态数据融合与深度学习**方向。作为第一作者发表SCI论文1篇（中科院二区），主持研发的果品智能无损检测平台已取得多项奖项，并登记软件著作权1项。多次获得国家级、省级学科竞赛奖项，智慧宿舍管理系统获中国软件杯国家级三等奖。具备从算法研究到系统开发的完整科研实践能力。相关成果包括SCI论文1篇（中科院二区，第一作者）、国家级竞赛奖项3项、软件著作权1项。
-
-#### 🛠️ 技术栈
-
-| 类别 | 技能 |
-|------|------|
-| **编程语言** | Python、C/C++、Java |
-| **深度学习** | PyTorch、TensorFlow、YOLOv8、CNN-Transformer |
-| **计算机视觉** | 目标检测、图像分类、OpenCV、多模态融合 |
-| **大模型应用** | LLM调用与微调、AI Agent、LangChain |
-| **工程部署** | 边缘设备推理、模型轻量化、前后端全栈开发 |
-| **开发工具** | Git、Docker、Linux |
-
-#### 🎓 教育背景
-
-**武汉轻工大学** · 数学与计算机学院
-**计算机科学与技术** 本科 | 2023.09 – 2027.06
-
-- **GPA**：3.91 | **专业排名**：4/164（前3%）
-- **主修课程**：数据结构、数据库、数字图像处理、计算机组成原理、计算机网络
-- **荣誉**：国家励志奖学金（两次）、校级优秀学生、五四优秀团员、优秀学生干部
-- **英语**：CET-4（501）、CET-6（457）
-
-#### 🔬 研究兴趣
-
-人工智能大模型 · 计算机视觉 · 自然语言处理 · 深度学习 · 智能感知
-
-#### 💡 自我评价
+<br>
+    <h3>研究兴趣</h3>
+    <div class="tag-list">
+      <span>计算机视觉</span>
+      <span>多模态融合</span>
+      <span>人工智能</span>
+      <span>深度学习</span>
+      <span>AI Agent</span>
+      <span>自然语言处理</span>
+    </div>
+  </div>
+</div>
