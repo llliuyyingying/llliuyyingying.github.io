@@ -2,7 +2,7 @@
   <div class="info-card">
     <h3>核心概览</h3>
     <div class="metric-grid">
-      <div class="metric"><strong>3/164</strong><span>专业排名 · 前2%</span></div>
+      <div class="metric"><strong>1/164</strong><span>专业排名 · 前1%</span></div>
       <div class="metric"><strong>89.11</strong><span>加权均分</span></div>
       <div class="metric"><strong>SCI</strong><span>中科院二区一作</span></div>
       <div class="metric"><strong>3+</strong><span>国家级竞赛奖项</span></div>
